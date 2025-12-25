@@ -27,7 +27,7 @@ I am a passionate **Fullstack Developer** specializing in the **MERN Stack**. I 
 **Tools & Version Control**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![vercel]
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 My GitHub Stats
 ![Tsedenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsedenia-Nega&show_icons=true&theme=radical)
