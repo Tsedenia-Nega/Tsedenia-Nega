@@ -30,7 +30,7 @@ I am a passionate **Fullstack Developer** specializing in the **MERN Stack**. I 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 My GitHub Stats
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Tsedenia-Nega/Tsedenia-Nega/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tsedenia-Nega&theme=radical)](https://git.io/streak-stats)
 
 
 ### 📫 Connect with me:
