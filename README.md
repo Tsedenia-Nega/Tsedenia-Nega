@@ -30,9 +30,9 @@ I am a passionate **Fullstack Developer** specializing in the **MERN Stack**. I 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tsedenia-Nega&theme=radical)](https://git.io/streak-stats)
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Tsedenia-Nega&theme=radical)
 ### 📫 Connect with me:
 - **Portfolio:** [tsedenia.netlify.app](https://tsedenia.netlify.app/)
 - **LinkedIn:** [Tsedenia Nega](https://www.linkedin.com/in/tsedenia-nega-392849284/)
