@@ -34,7 +34,7 @@ I am a passionate **Fullstack Developer** specializing in the **MERN Stack**. I 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tsedenia-Nega&theme=radical)
 ### 📫 Connect with me:
-- **Portfolio:** [tsedenia.netlify.app](https://tsedenia.netlify.app/)
+- **Portfolio:** [tsedenia.onrender.com](https://tsedenia.onrender.com/)
 - **LinkedIn:** [Tsedenia Nega](https://www.linkedin.com/in/tsedenia-nega-392849284/)
 
 ---
